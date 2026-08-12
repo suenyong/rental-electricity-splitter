@@ -1,0 +1,10 @@
+{
+  "name": "分電｜分租套房電費計算器",
+  "short_name": "分電",
+  "description": "快速算出三間分租套房各自應付的電費",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f2e9",
+  "theme_color": "#f5f2e9",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
